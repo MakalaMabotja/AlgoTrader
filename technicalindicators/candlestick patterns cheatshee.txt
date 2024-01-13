@@ -1,0 +1,19 @@
+NUMBER OF BARS,	CANDLESTICK NAME,	BULLISH OR BEARISH?,	WHAT IT LOOKS LIKE?,
+Single,	Spinning Top	    Neutral	Candlestick Pattern: Spinning Tops
+        Doji	            Neutral	Candlestick Pattern: Dojis
+        White Marubozu	    Bullish	Candlestick Pattern: White Marubozu
+        Black Marubozu	    Bearish	Candlestick Pattern: Black Marubozu
+        Hammer	            Bullish	Candlestick Pattern: Hammer
+        Hanging Man	        Bearish	Candlestick Pattern: Hanging Man
+        Inverted Hammer	    Bullish	Candlestick Pattern: Inverted Hammer
+        Shooting Star	    Bearish	Candlestick Pattern: Shooting Star
+Double	Bullish Engulfing	Bullish	Dual Candlestick Pattern: Bullish Engulfing
+        Bearish Engulfing	Bearish	Dual Candlestick Pattern: Bearish Engulfing
+        Tweezer Tops	    Bearish	Dual Candlestick Pattern: Tweezer Tops
+        Tweezer Bottoms	    Bullish	Dual Candlestick Pattern: Tweezer Bottoms
+Triple	Morning Star	    Bullish	Triple Candlestick Pattern: Morning Star
+        Evening Star	    Bearish	Triple Candlestick Pattern: Evening Star
+        Three White SoldiersBullish	Triple Candlestick Pattern: Three White Soldiers
+        Three Black Crows	Bearish	Triple Candlestick Pattern: Three Black Crows
+        Three Inside Up	    Bullish	Triple Candlestick Pattern: Three Inside Up
+        Three Inside Down	Bearish	Triple Candlestick Pattern: Three Inside Down
