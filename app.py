@@ -2,7 +2,7 @@ import streamlit as st
 import yfinance as yf
 import pandas as pd
 
-from indicators.technical_indicators import Indicator
+from indicators.technicals import Indicator
 from indicators.signals import Signals
 
 from models.data import fetch_data
@@ -34,7 +34,7 @@ if __name__ == "__main__":
     st.plotly_chart(plot_rsi(data))
 
     # st.subheader('Trades')
-    # st.plotly_chart(plot_trades(data, trades))
+    st.plotly_chart(plot_trades(data, trades))
 
-    # st.subheader('Account Balance Over Time')
+    st.subheader('Account Balance Over Time')
 
