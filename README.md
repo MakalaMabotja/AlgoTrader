@@ -1,6 +1,3 @@
-Here is a sample `README.md` file for your project:
-
-````markdown
 # AlgoTrader
 
 AlgoTrader is an algorithmic trading application designed to generate trading signals and visualize the results of trading logic. This project uses EUR/USD 1-hour data for signal generation and backtesting.
@@ -25,6 +22,7 @@ AlgoTrader/
 ├── requirements.txt            # Project dependencies
 └── .gitignore                  # Git ignore file
 ```
+
 ````
 
 ## Features
@@ -93,3 +91,4 @@ Special thanks to the developers of the libraries used in this project: pandas, 
 
 Feel free to adjust the content to better match your project's specifics and your preferences.
 ```
+````
