@@ -23,8 +23,6 @@ AlgoTrader/
 └── .gitignore                  # Git ignore file
 ```
 
-````
-
 ## Features
 
 - **Indicators Calculation**: Calculate various technical indicators such as EMA, RSI, and support/resistance levels.
@@ -91,4 +89,7 @@ Special thanks to the developers of the libraries used in this project: pandas, 
 
 Feel free to adjust the content to better match your project's specifics and your preferences.
 ```
-````
+
+```
+
+```
