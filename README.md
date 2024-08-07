@@ -85,11 +85,4 @@ This project is licensed under the MIT License.
 
 Special thanks to the developers of the libraries used in this project: pandas, numpy, yfinance, pandas-ta, plotly, and streamlit.
 
-```
-
 Feel free to adjust the content to better match your project's specifics and your preferences.
-```
-
-```
-
-```
