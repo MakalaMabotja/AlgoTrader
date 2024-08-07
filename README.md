@@ -56,10 +56,10 @@ AlgoTrader/
 
 1. **Configure Data Source**: Ensure `data.py` in the `models` directory fetches EUR/USD 1-hour data from `yfinance`.
 
-2. **Run the Application**: Execute `app.py` to start the application.
+2. **Run the Application**: Execute the Streamlit `app.py` to start the application.
 
    ```sh
-   python app.py
+   streamlit run app.py
    ```
 
 3. **View Results**: Access the visualizations and signal outputs through the Streamlit web interface.

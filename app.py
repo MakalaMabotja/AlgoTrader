@@ -34,7 +34,7 @@ if __name__ == "__main__":
     st.plotly_chart(plot_rsi(data))
 
     # st.subheader('Trades')
-    st.plotly_chart(plot_trades(data, trades))
+    # st.plotly_chart(plot_trades(data, trades))
 
     st.subheader('Account Balance Over Time')
 
